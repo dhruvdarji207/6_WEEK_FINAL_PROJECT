@@ -1,0 +1,13 @@
+material_category,illustrative_potential_use,general_feasibility_note,verification_requirements,demo_reference_only
+cotton,Textile recycling; recovered fibre products,Medium,"Check dye, finishes and fibre blend",True
+polyester,Textile recycling; recovered fibre products,Medium,Check polymer composition and finishes,True
+PET,Recycled plastic products,High if clean and sorted,Confirm resin grade and contamination,True
+HDPE,Recycled plastic products,High if clean and sorted,Confirm resin grade and contamination,True
+paper_fiber,Recycled paper/cardboard products,High if dry and clean,Avoid wet or chemically contaminated material,True
+wood_fiber,Panel products or biomass uses where permitted,Medium,"Check coatings, preservatives and moisture",True
+biomass,Qualified biomass processing pathways,Medium,"Check moisture, contaminants and local rules",True
+organic_biomass,Composting or approved bio-processing pathways,Medium,"Check segregation, spoilage and permitted use",True
+mineral_aggregate,Approved construction aggregate/recycled construction uses,Medium,Test composition and meet construction specifications,True
+ferrous_metal,Metal recycling and remelting,High if sorted,Check alloy and contamination,True
+aluminium,Metal recycling and remelting,High if sorted,Check alloy and contamination,True
+glass,Glass recycling and cullet applications,High if sorted,"Check colour, ceramics and contamination",True

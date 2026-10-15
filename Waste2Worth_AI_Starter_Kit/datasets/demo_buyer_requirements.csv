@@ -1,0 +1,141 @@
+buyer_need_id,buyer_name,buyer_type,buyer_sector,required_material_category,preferred_material_name,minimum_quality_score,maximum_contamination_pct,minimum_quantity_tonnes,maximum_quantity_tonnes,max_budget_inr_per_kg,city,latitude,longitude,required_condition,demo_data_flag
+B0001,Demo Buyer 29,Recycler,Construction,biomass,Rice husk,79,4.4,1.32,18.81,0.2,Surat,21.1702,72.8311,dry_clean,True
+B0002,Demo Buyer 03,Recycler,Construction,cotton,Textile cotton scraps,85,4.6,6.71,32.44,1.35,Mehsana,23.588,72.3693,clean_dry,True
+B0003,Demo Buyer 43,Packaging Producer,Manufacturing,PET,PET plastic flakes,82,5.3,2.6,42.8,0.88,Mehsana,23.588,72.3693,sorted_clean,True
+B0004,Demo Buyer 01,Material Processor,Plastics,HDPE,HDPE plastic regrind,74,12.9,7.25,11.33,0.67,Bharuch,21.7051,72.9959,sorted_clean,True
+B0005,Demo Buyer 17,Material Processor,Construction,aluminium,Aluminium offcuts,66,8.0,7.7,51.33,1.98,Morbi,22.8173,70.837,sorted_clean,True
+B0006,Demo Buyer 34,Recycler,Textile,PET,PET plastic flakes,73,6.8,5.86,43.83,0.59,Rajkot,22.3039,70.8022,sorted_clean,True
+B0007,Demo Buyer 01,Recycler,Construction,wood_fiber,Wood sawdust,83,10.8,2.13,54.51,0.57,Ahmedabad,23.0225,72.5714,dry_clean,True
+B0008,Demo Buyer 38,Packaging Producer,Agriculture,ferrous_metal,Iron/steel offcuts,61,5.6,6.06,19.77,1.0,Anand,22.5645,72.9289,sorted_clean,True
+B0009,Demo Buyer 41,Manufacturer,Food processing,cotton,Textile cotton scraps,65,8.1,2.17,16.73,2.0,Surat,21.1702,72.8311,clean_dry,True
+B0010,Demo Buyer 16,Recycler,Chemical,PET,PET plastic flakes,61,7.3,3.02,40.52,0.77,Vadodara,22.3072,73.1812,sorted_clean,True
+B0011,Demo Buyer 02,Packaging Producer,Construction,ferrous_metal,Iron/steel offcuts,62,4.3,1.6,40.98,0.38,Mehsana,23.588,72.3693,sorted_clean,True
+B0012,Demo Buyer 44,Construction Supplier,Textile,PET,PET plastic flakes,81,9.3,9.97,12.21,1.02,Mehsana,23.588,72.3693,sorted_clean,True
+B0013,Demo Buyer 22,Packaging Producer,Textile,cotton,Textile cotton scraps,74,12.7,2.12,58.93,1.5,Vadodara,22.3072,73.1812,clean_dry,True
+B0014,Demo Buyer 14,Packaging Producer,Manufacturing,biomass,Wheat straw,69,7.8,6.06,16.4,0.28,Anand,22.5645,72.9289,dry_clean,True
+B0015,Demo Buyer 45,Manufacturer,Plastics,HDPE,HDPE plastic regrind,82,10.1,3.91,30.43,1.2,Surat,21.1702,72.8311,sorted_clean,True
+B0016,Demo Buyer 18,Packaging Producer,Plastics,ferrous_metal,Iron/steel offcuts,84,7.7,3.63,32.55,0.87,Morbi,22.8173,70.837,sorted_clean,True
+B0017,Demo Buyer 14,Construction Supplier,Food processing,wood_fiber,Wood sawdust,74,6.8,3.78,28.93,0.24,Anand,22.5645,72.9289,dry_clean,True
+B0018,Demo Buyer 23,Construction Supplier,Manufacturing,paper_fiber,Cardboard packaging scrap,70,5.6,5.85,47.78,0.46,Surat,21.1702,72.8311,dry_clean,True
+B0019,Demo Buyer 44,Packaging Producer,Chemical,biomass,Wheat straw,75,11.0,1.0,57.28,0.33,Mehsana,23.588,72.3693,dry_clean,True
+B0020,Demo Buyer 42,Material Processor,Manufacturing,polyester,Polyester textile offcuts,60,3.5,6.96,38.13,0.74,Gandhinagar,23.2156,72.6369,clean_dry,True
+B0021,Demo Buyer 07,Packaging Producer,Chemical,wood_fiber,Wood sawdust,72,8.6,0.55,49.33,0.45,Bharuch,21.7051,72.9959,dry_clean,True
+B0022,Demo Buyer 45,Recycler,Plastics,aluminium,Aluminium offcuts,74,6.2,2.03,48.75,1.84,Mehsana,23.588,72.3693,sorted_clean,True
+B0023,Demo Buyer 11,Packaging Producer,Textile,HDPE,HDPE plastic regrind,85,13.3,2.28,39.71,1.83,Anand,22.5645,72.9289,sorted_clean,True
+B0024,Demo Buyer 06,Manufacturer,Food processing,organic_biomass,Fruit and vegetable processing residue,81,8.8,5.86,59.11,0.41,Rajkot,22.3039,70.8022,fresh_segregated,True
+B0025,Demo Buyer 43,Recycler,Textile,aluminium,Aluminium offcuts,70,4.4,8.05,51.89,1.4,Rajkot,22.3039,70.8022,sorted_clean,True
+B0026,Demo Buyer 33,Packaging Producer,Textile,mineral_aggregate,Concrete rubble (sorted),60,9.2,4.9,44.51,0.14,Vadodara,22.3072,73.1812,sorted_clean,True
+B0027,Demo Buyer 06,Recycler,Plastics,organic_biomass,Spent grain (food processing),76,3.5,4.89,36.11,0.17,Bharuch,21.7051,72.9959,fresh_segregated,True
+B0028,Demo Buyer 26,Manufacturer,Agriculture,biomass,Rice husk,68,4.2,9.5,30.25,0.62,Surat,21.1702,72.8311,dry_clean,True
+B0029,Demo Buyer 12,Manufacturer,Construction,biomass,Rice husk,76,13.5,6.53,31.45,0.37,Gandhinagar,23.2156,72.6369,dry_clean,True
+B0030,Demo Buyer 10,Material Processor,Food processing,wood_fiber,Wood sawdust,85,14.5,0.88,45.29,0.42,Ahmedabad,23.0225,72.5714,dry_clean,True
+B0031,Demo Buyer 18,Manufacturer,Food processing,biomass,Wheat straw,84,13.0,1.62,12.99,0.61,Gandhinagar,23.2156,72.6369,dry_clean,True
+B0032,Demo Buyer 33,Material Processor,Textile,glass,Clean glass cullet,83,9.8,4.27,32.25,0.08,Surat,21.1702,72.8311,sorted_clean,True
+B0033,Demo Buyer 13,Recycler,Plastics,PET,PET plastic flakes,64,6.4,9.66,14.71,1.63,Gandhinagar,23.2156,72.6369,sorted_clean,True
+B0034,Demo Buyer 25,Packaging Producer,Textile,polyester,Polyester textile offcuts,85,13.1,9.46,16.35,1.81,Bharuch,21.7051,72.9959,clean_dry,True
+B0035,Demo Buyer 18,Material Processor,Manufacturing,paper_fiber,Cardboard packaging scrap,83,14.7,7.2,34.15,0.66,Anand,22.5645,72.9289,dry_clean,True
+B0036,Demo Buyer 13,Recycler,Chemical,ferrous_metal,Iron/steel offcuts,70,4.1,1.24,48.99,0.74,Rajkot,22.3039,70.8022,sorted_clean,True
+B0037,Demo Buyer 38,Construction Supplier,Textile,PET,PET plastic flakes,60,4.9,2.46,58.79,0.78,Gandhinagar,23.2156,72.6369,sorted_clean,True
+B0038,Demo Buyer 30,Packaging Producer,Manufacturing,wood_fiber,Wood sawdust,85,5.8,0.97,17.68,0.21,Anand,22.5645,72.9289,dry_clean,True
+B0039,Demo Buyer 07,Material Processor,Food processing,PET,PET plastic flakes,83,9.4,6.45,20.09,1.54,Surat,21.1702,72.8311,sorted_clean,True
+B0040,Demo Buyer 30,Packaging Producer,Construction,ferrous_metal,Iron/steel offcuts,84,7.2,1.36,21.3,0.73,Morbi,22.8173,70.837,sorted_clean,True
+B0041,Demo Buyer 39,Recycler,Food processing,organic_biomass,Spent grain (food processing),80,9.5,2.24,26.04,0.42,Gandhinagar,23.2156,72.6369,fresh_segregated,True
+B0042,Demo Buyer 08,Material Processor,Plastics,PET,PET plastic flakes,65,11.7,2.1,56.83,0.74,Bharuch,21.7051,72.9959,sorted_clean,True
+B0043,Demo Buyer 27,Material Processor,Agriculture,ferrous_metal,Iron/steel offcuts,73,9.1,4.65,59.74,0.78,Ahmedabad,23.0225,72.5714,sorted_clean,True
+B0044,Demo Buyer 42,Material Processor,Manufacturing,biomass,Wheat straw,61,10.1,2.67,41.88,0.1,Anand,22.5645,72.9289,dry_clean,True
+B0045,Demo Buyer 01,Material Processor,Agriculture,organic_biomass,Fruit and vegetable processing residue,83,8.7,1.07,51.11,0.44,Gandhinagar,23.2156,72.6369,fresh_segregated,True
+B0046,Demo Buyer 41,Material Processor,Agriculture,mineral_aggregate,Brick rubble (sorted),76,13.3,6.5,27.38,0.38,Mehsana,23.588,72.3693,sorted_clean,True
+B0047,Demo Buyer 42,Packaging Producer,Construction,mineral_aggregate,Brick rubble (sorted),69,8.1,8.22,35.29,0.42,Bharuch,21.7051,72.9959,sorted_clean,True
+B0048,Demo Buyer 24,Recycler,Construction,biomass,Wheat straw,79,4.6,2.39,41.34,0.56,Anand,22.5645,72.9289,dry_clean,True
+B0049,Demo Buyer 33,Recycler,Agriculture,HDPE,HDPE plastic regrind,62,14.5,1.97,19.88,1.01,Gandhinagar,23.2156,72.6369,sorted_clean,True
+B0050,Demo Buyer 09,Packaging Producer,Plastics,paper_fiber,Cardboard packaging scrap,79,11.5,2.16,27.88,0.68,Anand,22.5645,72.9289,dry_clean,True
+B0051,Demo Buyer 18,Recycler,Chemical,ferrous_metal,Iron/steel offcuts,68,4.5,5.73,45.25,0.33,Surat,21.1702,72.8311,sorted_clean,True
+B0052,Demo Buyer 11,Construction Supplier,Construction,biomass,Rice husk,79,12.8,4.76,51.03,0.24,Anand,22.5645,72.9289,dry_clean,True
+B0053,Demo Buyer 09,Manufacturer,Chemical,wood_fiber,Wood sawdust,72,7.7,2.79,47.59,0.43,Rajkot,22.3039,70.8022,dry_clean,True
+B0054,Demo Buyer 17,Manufacturer,Textile,PET,PET plastic flakes,71,6.6,4.01,21.8,1.49,Vadodara,22.3072,73.1812,sorted_clean,True
+B0055,Demo Buyer 17,Material Processor,Construction,cotton,Textile cotton scraps,76,13.4,9.99,40.68,2.05,Gandhinagar,23.2156,72.6369,clean_dry,True
+B0056,Demo Buyer 23,Construction Supplier,Food processing,ferrous_metal,Iron/steel offcuts,71,4.0,0.65,33.86,0.79,Gandhinagar,23.2156,72.6369,sorted_clean,True
+B0057,Demo Buyer 21,Material Processor,Plastics,biomass,Wheat straw,74,13.0,1.53,21.26,0.59,Rajkot,22.3039,70.8022,dry_clean,True
+B0058,Demo Buyer 35,Packaging Producer,Construction,polyester,Polyester textile offcuts,82,13.7,3.49,30.08,1.08,Mehsana,23.588,72.3693,clean_dry,True
+B0059,Demo Buyer 29,Packaging Producer,Agriculture,ferrous_metal,Iron/steel offcuts,68,9.7,3.31,18.49,0.46,Morbi,22.8173,70.837,sorted_clean,True
+B0060,Demo Buyer 29,Packaging Producer,Plastics,mineral_aggregate,Brick rubble (sorted),70,13.0,6.97,19.6,0.14,Ahmedabad,23.0225,72.5714,sorted_clean,True
+B0061,Demo Buyer 45,Recycler,Manufacturing,HDPE,HDPE plastic regrind,83,4.7,6.94,50.72,0.93,Mehsana,23.588,72.3693,sorted_clean,True
+B0062,Demo Buyer 16,Packaging Producer,Agriculture,glass,Clean glass cullet,66,8.2,4.61,22.65,0.48,Vadodara,22.3072,73.1812,sorted_clean,True
+B0063,Demo Buyer 27,Recycler,Plastics,organic_biomass,Spent grain (food processing),81,5.6,0.54,38.56,0.62,Bharuch,21.7051,72.9959,fresh_segregated,True
+B0064,Demo Buyer 10,Recycler,Manufacturing,aluminium,Aluminium offcuts,73,12.7,1.35,29.76,2.37,Ahmedabad,23.0225,72.5714,sorted_clean,True
+B0065,Demo Buyer 11,Manufacturer,Chemical,PET,PET plastic flakes,65,7.9,5.05,53.09,1.33,Rajkot,22.3039,70.8022,sorted_clean,True
+B0066,Demo Buyer 07,Packaging Producer,Chemical,mineral_aggregate,Brick rubble (sorted),70,7.8,9.27,22.29,0.41,Bharuch,21.7051,72.9959,sorted_clean,True
+B0067,Demo Buyer 44,Manufacturer,Food processing,polyester,Polyester textile offcuts,72,5.4,2.26,33.19,1.11,Bharuch,21.7051,72.9959,clean_dry,True
+B0068,Demo Buyer 10,Packaging Producer,Agriculture,PET,PET plastic flakes,80,6.2,3.1,22.74,0.68,Mehsana,23.588,72.3693,sorted_clean,True
+B0069,Demo Buyer 24,Material Processor,Manufacturing,cotton,Textile cotton scraps,65,13.2,4.29,11.76,1.03,Gandhinagar,23.2156,72.6369,clean_dry,True
+B0070,Demo Buyer 20,Construction Supplier,Chemical,mineral_aggregate,Brick rubble (sorted),65,14.0,8.58,52.42,0.16,Morbi,22.8173,70.837,sorted_clean,True
+B0071,Demo Buyer 39,Packaging Producer,Agriculture,biomass,Wheat straw,67,10.4,7.72,16.41,0.58,Ahmedabad,23.0225,72.5714,dry_clean,True
+B0072,Demo Buyer 05,Construction Supplier,Manufacturing,PET,PET plastic flakes,71,13.5,5.51,47.24,1.57,Gandhinagar,23.2156,72.6369,sorted_clean,True
+B0073,Demo Buyer 28,Recycler,Food processing,PET,PET plastic flakes,63,5.9,5.28,35.26,1.26,Bharuch,21.7051,72.9959,sorted_clean,True
+B0074,Demo Buyer 38,Construction Supplier,Manufacturing,ferrous_metal,Iron/steel offcuts,83,6.0,7.5,43.9,0.83,Rajkot,22.3039,70.8022,sorted_clean,True
+B0075,Demo Buyer 16,Construction Supplier,Agriculture,mineral_aggregate,Brick rubble (sorted),84,11.7,9.22,59.21,0.23,Surat,21.1702,72.8311,sorted_clean,True
+B0076,Demo Buyer 30,Material Processor,Textile,wood_fiber,Wood sawdust,85,4.1,4.42,53.78,0.41,Morbi,22.8173,70.837,dry_clean,True
+B0077,Demo Buyer 28,Recycler,Construction,biomass,Wheat straw,85,13.6,3.36,48.51,0.29,Mehsana,23.588,72.3693,dry_clean,True
+B0078,Demo Buyer 14,Construction Supplier,Manufacturing,HDPE,HDPE plastic regrind,81,3.3,2.59,45.6,1.39,Morbi,22.8173,70.837,sorted_clean,True
+B0079,Demo Buyer 22,Manufacturer,Agriculture,organic_biomass,Spent grain (food processing),69,13.4,0.79,29.82,0.59,Anand,22.5645,72.9289,fresh_segregated,True
+B0080,Demo Buyer 17,Construction Supplier,Agriculture,aluminium,Aluminium offcuts,66,13.4,7.59,54.29,1.25,Ahmedabad,23.0225,72.5714,sorted_clean,True
+B0081,Demo Buyer 19,Construction Supplier,Plastics,organic_biomass,Fruit and vegetable processing residue,66,5.8,0.76,57.93,0.48,Anand,22.5645,72.9289,fresh_segregated,True
+B0082,Demo Buyer 17,Construction Supplier,Manufacturing,polyester,Polyester textile offcuts,73,8.7,4.77,42.02,0.98,Morbi,22.8173,70.837,clean_dry,True
+B0083,Demo Buyer 38,Packaging Producer,Textile,cotton,Textile cotton scraps,69,9.9,1.84,58.62,2.06,Mehsana,23.588,72.3693,clean_dry,True
+B0084,Demo Buyer 38,Recycler,Plastics,mineral_aggregate,Concrete rubble (sorted),64,5.5,1.36,16.01,0.09,Gandhinagar,23.2156,72.6369,sorted_clean,True
+B0085,Demo Buyer 04,Manufacturer,Textile,cotton,Textile cotton scraps,63,12.9,6.01,48.72,1.68,Gandhinagar,23.2156,72.6369,clean_dry,True
+B0086,Demo Buyer 14,Construction Supplier,Agriculture,biomass,Rice husk,73,11.6,4.75,27.3,0.39,Mehsana,23.588,72.3693,dry_clean,True
+B0087,Demo Buyer 19,Construction Supplier,Plastics,polyester,Polyester textile offcuts,66,4.8,2.84,52.1,1.16,Surat,21.1702,72.8311,clean_dry,True
+B0088,Demo Buyer 30,Packaging Producer,Manufacturing,glass,Clean glass cullet,62,12.2,3.42,20.83,0.43,Bharuch,21.7051,72.9959,sorted_clean,True
+B0089,Demo Buyer 06,Recycler,Manufacturing,organic_biomass,Spent grain (food processing),74,6.5,5.77,41.09,0.4,Gandhinagar,23.2156,72.6369,fresh_segregated,True
+B0090,Demo Buyer 42,Manufacturer,Food processing,PET,PET plastic flakes,78,11.1,6.98,13.7,1.08,Morbi,22.8173,70.837,sorted_clean,True
+B0091,Demo Buyer 20,Manufacturer,Manufacturing,cotton,Textile cotton scraps,65,8.3,7.56,21.85,1.96,Rajkot,22.3039,70.8022,clean_dry,True
+B0092,Demo Buyer 02,Construction Supplier,Manufacturing,biomass,Rice husk,72,9.0,6.39,56.4,0.41,Anand,22.5645,72.9289,dry_clean,True
+B0093,Demo Buyer 29,Construction Supplier,Manufacturing,glass,Clean glass cullet,79,3.9,5.4,34.08,0.56,Anand,22.5645,72.9289,sorted_clean,True
+B0094,Demo Buyer 26,Material Processor,Manufacturing,wood_fiber,Wood sawdust,85,8.4,2.22,20.85,0.24,Anand,22.5645,72.9289,dry_clean,True
+B0095,Demo Buyer 30,Material Processor,Food processing,organic_biomass,Fruit and vegetable processing residue,80,11.8,0.81,38.5,0.14,Ahmedabad,23.0225,72.5714,fresh_segregated,True
+B0096,Demo Buyer 44,Manufacturer,Food processing,polyester,Polyester textile offcuts,76,6.9,6.59,30.61,1.76,Gandhinagar,23.2156,72.6369,clean_dry,True
+B0097,Demo Buyer 12,Packaging Producer,Manufacturing,PET,PET plastic flakes,73,12.1,8.57,59.94,0.79,Vadodara,22.3072,73.1812,sorted_clean,True
+B0098,Demo Buyer 16,Recycler,Construction,mineral_aggregate,Concrete rubble (sorted),66,10.0,9.94,59.51,0.33,Vadodara,22.3072,73.1812,sorted_clean,True
+B0099,Demo Buyer 33,Packaging Producer,Food processing,wood_fiber,Wood sawdust,84,5.4,5.52,51.64,0.42,Morbi,22.8173,70.837,dry_clean,True
+B0100,Demo Buyer 11,Packaging Producer,Agriculture,glass,Clean glass cullet,85,13.9,8.09,23.46,0.23,Rajkot,22.3039,70.8022,sorted_clean,True
+B0101,Demo Buyer 04,Material Processor,Chemical,organic_biomass,Spent grain (food processing),73,10.6,4.38,47.46,0.24,Anand,22.5645,72.9289,fresh_segregated,True
+B0102,Demo Buyer 24,Manufacturer,Agriculture,biomass,Rice husk,64,13.2,4.74,21.39,0.59,Vadodara,22.3072,73.1812,dry_clean,True
+B0103,Demo Buyer 08,Manufacturer,Manufacturing,glass,Clean glass cullet,68,5.1,6.73,23.75,0.09,Anand,22.5645,72.9289,sorted_clean,True
+B0104,Demo Buyer 42,Material Processor,Plastics,cotton,Textile cotton scraps,60,13.2,1.98,40.33,1.42,Ahmedabad,23.0225,72.5714,clean_dry,True
+B0105,Demo Buyer 18,Manufacturer,Agriculture,mineral_aggregate,Concrete rubble (sorted),80,13.7,0.6,18.93,0.53,Rajkot,22.3039,70.8022,sorted_clean,True
+B0106,Demo Buyer 31,Manufacturer,Manufacturing,wood_fiber,Wood sawdust,65,10.9,7.39,39.97,1.01,Anand,22.5645,72.9289,dry_clean,True
+B0107,Demo Buyer 26,Recycler,Manufacturing,aluminium,Aluminium offcuts,72,7.3,2.63,12.3,1.54,Anand,22.5645,72.9289,sorted_clean,True
+B0108,Demo Buyer 17,Manufacturer,Food processing,biomass,Wheat straw,71,10.7,6.3,48.83,0.6,Bharuch,21.7051,72.9959,dry_clean,True
+B0109,Demo Buyer 03,Manufacturer,Manufacturing,HDPE,HDPE plastic regrind,72,10.2,2.83,12.13,0.91,Bharuch,21.7051,72.9959,sorted_clean,True
+B0110,Demo Buyer 08,Material Processor,Textile,organic_biomass,Fruit and vegetable processing residue,64,12.9,9.29,20.07,0.61,Anand,22.5645,72.9289,fresh_segregated,True
+B0111,Demo Buyer 14,Packaging Producer,Agriculture,biomass,Wheat straw,84,3.1,7.75,58.51,0.66,Ahmedabad,23.0225,72.5714,dry_clean,True
+B0112,Demo Buyer 09,Material Processor,Plastics,HDPE,HDPE plastic regrind,62,13.2,6.33,40.74,1.18,Gandhinagar,23.2156,72.6369,sorted_clean,True
+B0113,Demo Buyer 23,Manufacturer,Construction,organic_biomass,Spent grain (food processing),79,3.9,7.43,52.45,0.32,Morbi,22.8173,70.837,fresh_segregated,True
+B0114,Demo Buyer 25,Recycler,Manufacturing,mineral_aggregate,Concrete rubble (sorted),85,11.8,4.01,18.74,0.17,Anand,22.5645,72.9289,sorted_clean,True
+B0115,Demo Buyer 27,Packaging Producer,Agriculture,mineral_aggregate,Concrete rubble (sorted),79,5.6,8.67,28.91,0.5,Anand,22.5645,72.9289,sorted_clean,True
+B0116,Demo Buyer 27,Construction Supplier,Agriculture,mineral_aggregate,Brick rubble (sorted),84,6.1,7.08,59.37,0.13,Vadodara,22.3072,73.1812,sorted_clean,True
+B0117,Demo Buyer 31,Construction Supplier,Manufacturing,biomass,Rice husk,68,3.9,5.02,47.69,0.27,Ahmedabad,23.0225,72.5714,dry_clean,True
+B0118,Demo Buyer 02,Packaging Producer,Plastics,biomass,Wheat straw,73,13.1,4.74,57.65,0.49,Rajkot,22.3039,70.8022,dry_clean,True
+B0119,Demo Buyer 16,Packaging Producer,Construction,PET,PET plastic flakes,72,4.7,1.95,44.38,0.56,Surat,21.1702,72.8311,sorted_clean,True
+B0120,Demo Buyer 21,Manufacturer,Chemical,organic_biomass,Fruit and vegetable processing residue,71,8.0,5.46,23.98,0.07,Vadodara,22.3072,73.1812,fresh_segregated,True
+B0121,Demo Buyer 14,Recycler,Food processing,mineral_aggregate,Concrete rubble (sorted),76,4.3,0.63,22.41,0.29,Morbi,22.8173,70.837,sorted_clean,True
+B0122,Demo Buyer 35,Packaging Producer,Textile,paper_fiber,Cardboard packaging scrap,69,9.4,6.14,11.09,0.72,Rajkot,22.3039,70.8022,dry_clean,True
+B0123,Demo Buyer 39,Material Processor,Plastics,mineral_aggregate,Brick rubble (sorted),62,12.4,9.45,11.11,0.35,Rajkot,22.3039,70.8022,sorted_clean,True
+B0124,Demo Buyer 41,Recycler,Plastics,HDPE,HDPE plastic regrind,80,10.6,9.33,59.05,0.66,Bharuch,21.7051,72.9959,sorted_clean,True
+B0125,Demo Buyer 44,Material Processor,Agriculture,wood_fiber,Wood sawdust,63,7.0,9.88,10.88,0.56,Anand,22.5645,72.9289,dry_clean,True
+B0126,Demo Buyer 24,Recycler,Textile,polyester,Polyester textile offcuts,72,14.7,5.01,16.55,0.77,Mehsana,23.588,72.3693,clean_dry,True
+B0127,Demo Buyer 45,Recycler,Plastics,mineral_aggregate,Concrete rubble (sorted),73,4.1,4.52,56.51,0.32,Gandhinagar,23.2156,72.6369,sorted_clean,True
+B0128,Demo Buyer 44,Recycler,Manufacturing,glass,Clean glass cullet,73,13.3,4.76,23.97,0.52,Gandhinagar,23.2156,72.6369,sorted_clean,True
+B0129,Demo Buyer 15,Material Processor,Manufacturing,ferrous_metal,Iron/steel offcuts,85,5.2,3.36,11.55,0.68,Rajkot,22.3039,70.8022,sorted_clean,True
+B0130,Demo Buyer 33,Construction Supplier,Agriculture,organic_biomass,Fruit and vegetable processing residue,64,11.1,3.0,27.76,0.26,Surat,21.1702,72.8311,fresh_segregated,True
+B0131,Demo Buyer 21,Material Processor,Construction,paper_fiber,Cardboard packaging scrap,69,13.2,5.93,20.69,1.1,Bharuch,21.7051,72.9959,dry_clean,True
+B0132,Demo Buyer 34,Manufacturer,Agriculture,biomass,Rice husk,72,4.5,2.77,47.36,0.17,Rajkot,22.3039,70.8022,dry_clean,True
+B0133,Demo Buyer 41,Packaging Producer,Chemical,paper_fiber,Cardboard packaging scrap,75,11.5,7.28,59.64,0.54,Mehsana,23.588,72.3693,dry_clean,True
+B0134,Demo Buyer 06,Material Processor,Plastics,biomass,Wheat straw,73,5.1,6.32,10.71,0.67,Surat,21.1702,72.8311,dry_clean,True
+B0135,Demo Buyer 12,Manufacturer,Manufacturing,organic_biomass,Spent grain (food processing),62,5.9,3.1,11.64,0.21,Vadodara,22.3072,73.1812,fresh_segregated,True
+B0136,Demo Buyer 42,Recycler,Food processing,paper_fiber,Cardboard packaging scrap,70,7.1,3.62,14.49,0.23,Surat,21.1702,72.8311,dry_clean,True
+B0137,Demo Buyer 14,Construction Supplier,Construction,HDPE,HDPE plastic regrind,85,14.1,5.29,36.59,1.04,Surat,21.1702,72.8311,sorted_clean,True
+B0138,Demo Buyer 04,Construction Supplier,Plastics,cotton,Textile cotton scraps,81,13.7,4.63,48.34,1.93,Bharuch,21.7051,72.9959,clean_dry,True
+B0139,Demo Buyer 04,Packaging Producer,Agriculture,mineral_aggregate,Brick rubble (sorted),62,14.9,7.82,14.66,0.38,Vadodara,22.3072,73.1812,sorted_clean,True
+B0140,Demo Buyer 31,Construction Supplier,Plastics,PET,PET plastic flakes,80,10.2,8.64,14.89,0.86,Ahmedabad,23.0225,72.5714,sorted_clean,True

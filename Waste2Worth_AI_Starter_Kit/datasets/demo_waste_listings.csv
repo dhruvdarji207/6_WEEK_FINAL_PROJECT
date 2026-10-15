@@ -1,0 +1,181 @@
+listing_id,supplier_name,supplier_type,source_sector,material_name,material_category,condition,quantity_tonnes,quality_score_0_100,contamination_est_pct,indicative_price_inr_per_kg,city,latitude,longitude,available_from,listing_status,hazardous_flag,demo_data_flag
+L0001,Demo Supplier 43,Large Manufacturer,Textile,Polyester textile offcuts,polyester,clean_dry,35.39,74,29.8,0.79,Bharuch,21.7051,72.9959,2026-12-27 00:00:00,Under Review,False,True
+L0002,Demo Supplier 10,Recycler,Construction,Brick rubble (sorted),mineral_aggregate,sorted_clean,10.69,90,6.6,0.07,Bharuch,21.7051,72.9959,2026-12-10 00:00:00,Under Review,False,True
+L0003,Demo Supplier 12,Recycler,Agriculture,Rice husk,biomass,dry_clean,35.75,75,26.5,0.1,Mehsana,23.588,72.3693,2026-12-14 00:00:00,Available,False,True
+L0004,Demo Supplier 34,Processor,Food processing,Spent grain (food processing),organic_biomass,fresh_segregated,28.68,89,15.9,0.2,Surat,21.1702,72.8311,2026-12-08 00:00:00,Available,False,True
+L0005,Demo Supplier 08,Medium Manufacturer,Manufacturing,Wood sawdust,wood_fiber,dry_clean,3.98,79,22.7,0.52,Anand,22.5645,72.9289,2026-12-27 00:00:00,Available,False,True
+L0006,Demo Supplier 35,Large Manufacturer,Manufacturing,Cardboard packaging scrap,paper_fiber,dry_clean,37.83,71,33.5,0.28,Gandhinagar,23.2156,72.6369,2026-10-30 00:00:00,Available,False,True
+L0007,Demo Supplier 42,Processor,Food processing,Fruit and vegetable processing residue,organic_biomass,fresh_segregated,35.25,62,33.3,0.11,Bharuch,21.7051,72.9959,2026-12-14 00:00:00,Available,False,True
+L0008,Demo Supplier 42,Small Manufacturer,Manufacturing,Iron/steel offcuts,ferrous_metal,sorted_clean,23.42,72,31.5,0.35,Mehsana,23.588,72.3693,2026-12-12 00:00:00,Available,False,True
+L0009,Demo Supplier 36,Large Manufacturer,Construction,Brick rubble (sorted),mineral_aggregate,sorted_clean,53.36,76,22.7,0.08,Mehsana,23.588,72.3693,2026-11-21 00:00:00,Available,False,True
+L0010,Demo Supplier 04,Processor,Plastics,PET plastic flakes,PET,sorted_clean,53.64,60,43.9,1.01,Vadodara,22.3072,73.1812,2026-11-21 00:00:00,Under Review,False,True
+L0011,Demo Supplier 16,Recycler,Food processing,Fruit and vegetable processing residue,organic_biomass,fresh_segregated,44.96,90,8.6,0.14,Anand,22.5645,72.9289,2026-10-20 00:00:00,Available,False,True
+L0012,Demo Supplier 46,Medium Manufacturer,Agriculture,Rice husk,biomass,dry_clean,19.1,93,3.3,0.16,Gandhinagar,23.2156,72.6369,2026-11-09 00:00:00,Under Review,False,True
+L0013,Demo Supplier 34,Medium Manufacturer,Textile,Polyester textile offcuts,polyester,clean_dry,62.82,99,0.0,1.51,Morbi,22.8173,70.837,2026-10-16 00:00:00,Available,False,True
+L0014,Demo Supplier 46,Large Manufacturer,Textile,Textile cotton scraps,cotton,clean_dry,57.93,59,42.9,0.96,Ahmedabad,23.0225,72.5714,2026-12-24 00:00:00,Available,False,True
+L0015,Demo Supplier 20,Processor,Agriculture,Wheat straw,biomass,dry_clean,35.97,62,36.3,0.23,Bharuch,21.7051,72.9959,2026-11-02 00:00:00,Matched,False,True
+L0016,Demo Supplier 23,Medium Manufacturer,Textile,Polyester textile offcuts,polyester,clean_dry,76.97,60,41.6,1.4,Rajkot,22.3039,70.8022,2026-12-08 00:00:00,Matched,False,True
+L0017,Demo Supplier 23,Large Manufacturer,Plastics,HDPE plastic regrind,HDPE,sorted_clean,57.49,90,9.2,0.7,Mehsana,23.588,72.3693,2026-12-21 00:00:00,Available,False,True
+L0018,Demo Supplier 24,Recycler,Agriculture,Rice husk,biomass,dry_clean,24.82,64,37.0,0.13,Bharuch,21.7051,72.9959,2026-10-02 00:00:00,Under Review,False,True
+L0019,Demo Supplier 32,Processor,Agriculture,Wheat straw,biomass,dry_clean,34.85,68,38.4,0.23,Bharuch,21.7051,72.9959,2026-10-08 00:00:00,Under Review,False,True
+L0020,Demo Supplier 34,Small Manufacturer,Agriculture,Rice husk,biomass,dry_clean,39.77,56,47.3,0.12,Mehsana,23.588,72.3693,2026-10-16 00:00:00,Available,False,True
+L0021,Demo Supplier 30,Medium Manufacturer,Construction,Brick rubble (sorted),mineral_aggregate,sorted_clean,74.05,99,0.0,0.1,Surat,21.1702,72.8311,2026-10-03 00:00:00,Available,False,True
+L0022,Demo Supplier 34,Large Manufacturer,Manufacturing,Clean glass cullet,glass,sorted_clean,62.73,76,27.4,0.12,Rajkot,22.3039,70.8022,2026-11-09 00:00:00,Matched,False,True
+L0023,Demo Supplier 14,Recycler,Plastics,PET plastic flakes,PET,sorted_clean,38.14,91,5.7,0.97,Morbi,22.8173,70.837,2026-11-09 00:00:00,Available,False,True
+L0024,Demo Supplier 16,Small Manufacturer,Textile,Textile cotton scraps,cotton,clean_dry,71.74,92,7.4,1.35,Rajkot,22.3039,70.8022,2026-11-29 00:00:00,Under Review,False,True
+L0025,Demo Supplier 37,Processor,Textile,Polyester textile offcuts,polyester,clean_dry,52.92,87,13.5,0.81,Vadodara,22.3072,73.1812,2026-12-22 00:00:00,Matched,False,True
+L0026,Demo Supplier 24,Recycler,Plastics,HDPE plastic regrind,HDPE,sorted_clean,44.61,56,52.5,1.43,Vadodara,22.3072,73.1812,2026-12-26 00:00:00,Available,False,True
+L0027,Demo Supplier 26,Small Manufacturer,Plastics,HDPE plastic regrind,HDPE,sorted_clean,23.63,82,17.8,1.54,Gandhinagar,23.2156,72.6369,2026-10-15 00:00:00,Available,False,True
+L0028,Demo Supplier 43,Recycler,Textile,Textile cotton scraps,cotton,clean_dry,79.39,74,26.7,1.55,Vadodara,22.3072,73.1812,2026-10-21 00:00:00,Matched,False,True
+L0029,Demo Supplier 39,Recycler,Textile,Polyester textile offcuts,polyester,clean_dry,25.62,55,43.4,1.07,Anand,22.5645,72.9289,2026-10-09 00:00:00,Under Review,False,True
+L0030,Demo Supplier 04,Recycler,Construction,Brick rubble (sorted),mineral_aggregate,sorted_clean,74.98,66,28.5,0.04,Rajkot,22.3039,70.8022,2026-12-20 00:00:00,Available,False,True
+L0031,Demo Supplier 44,Recycler,Construction,Brick rubble (sorted),mineral_aggregate,sorted_clean,48.15,87,18.6,0.06,Surat,21.1702,72.8311,2026-12-09 00:00:00,Available,False,True
+L0032,Demo Supplier 14,Small Manufacturer,Manufacturing,Clean glass cullet,glass,sorted_clean,11.94,77,24.4,0.08,Anand,22.5645,72.9289,2026-10-02 00:00:00,Under Review,False,True
+L0033,Demo Supplier 35,Recycler,Manufacturing,Clean glass cullet,glass,sorted_clean,40.75,96,0.0,0.07,Surat,21.1702,72.8311,2026-12-12 00:00:00,Available,False,True
+L0034,Demo Supplier 07,Large Manufacturer,Construction,Concrete rubble (sorted),mineral_aggregate,sorted_clean,10.92,88,10.1,0.08,Ahmedabad,23.0225,72.5714,2026-11-15 00:00:00,Under Review,False,True
+L0035,Demo Supplier 47,Small Manufacturer,Manufacturing,Cardboard packaging scrap,paper_fiber,dry_clean,23.27,98,1.1,0.53,Gandhinagar,23.2156,72.6369,2026-11-27 00:00:00,Matched,False,True
+L0036,Demo Supplier 10,Recycler,Textile,Polyester textile offcuts,polyester,clean_dry,33.82,61,49.1,1.3,Bharuch,21.7051,72.9959,2026-12-06 00:00:00,Matched,False,True
+L0037,Demo Supplier 01,Medium Manufacturer,Agriculture,Rice husk,biomass,dry_clean,62.89,93,11.8,0.3,Anand,22.5645,72.9289,2026-12-11 00:00:00,Available,False,True
+L0038,Demo Supplier 47,Large Manufacturer,Plastics,HDPE plastic regrind,HDPE,sorted_clean,48.68,78,19.9,0.97,Rajkot,22.3039,70.8022,2026-10-11 00:00:00,Under Review,False,True
+L0039,Demo Supplier 13,Recycler,Manufacturing,Clean glass cullet,glass,sorted_clean,36.58,78,16.9,0.16,Mehsana,23.588,72.3693,2026-12-13 00:00:00,Matched,False,True
+L0040,Demo Supplier 16,Medium Manufacturer,Textile,Polyester textile offcuts,polyester,clean_dry,47.76,57,44.4,1.52,Mehsana,23.588,72.3693,2026-12-23 00:00:00,Available,False,True
+L0041,Demo Supplier 15,Large Manufacturer,Manufacturing,Aluminium offcuts,aluminium,sorted_clean,13.66,62,37.5,1.0,Gandhinagar,23.2156,72.6369,2026-10-02 00:00:00,Under Review,False,True
+L0042,Demo Supplier 41,Medium Manufacturer,Textile,Textile cotton scraps,cotton,clean_dry,4.74,62,39.9,1.48,Surat,21.1702,72.8311,2026-12-14 00:00:00,Available,False,True
+L0043,Demo Supplier 43,Recycler,Manufacturing,Clean glass cullet,glass,sorted_clean,70.06,90,11.3,0.07,Anand,22.5645,72.9289,2026-10-22 00:00:00,Available,False,True
+L0044,Demo Supplier 47,Large Manufacturer,Plastics,HDPE plastic regrind,HDPE,sorted_clean,33.59,80,16.9,0.97,Morbi,22.8173,70.837,2026-12-20 00:00:00,Available,False,True
+L0045,Demo Supplier 47,Recycler,Textile,Polyester textile offcuts,polyester,clean_dry,4.63,73,20.0,1.54,Mehsana,23.588,72.3693,2026-12-21 00:00:00,Available,False,True
+L0046,Demo Supplier 37,Small Manufacturer,Manufacturing,Clean glass cullet,glass,sorted_clean,62.47,91,9.2,0.16,Vadodara,22.3072,73.1812,2026-12-14 00:00:00,Available,False,True
+L0047,Demo Supplier 24,Medium Manufacturer,Manufacturing,Cardboard packaging scrap,paper_fiber,dry_clean,68.68,92,7.1,0.58,Anand,22.5645,72.9289,2026-10-24 00:00:00,Available,False,True
+L0048,Demo Supplier 26,Medium Manufacturer,Plastics,PET plastic flakes,PET,sorted_clean,33.64,76,30.9,0.83,Rajkot,22.3039,70.8022,2026-12-06 00:00:00,Available,False,True
+L0049,Demo Supplier 15,Recycler,Agriculture,Rice husk,biomass,dry_clean,55.02,65,40.2,0.33,Rajkot,22.3039,70.8022,2026-11-13 00:00:00,Under Review,False,True
+L0050,Demo Supplier 28,Large Manufacturer,Manufacturing,Cardboard packaging scrap,paper_fiber,dry_clean,67.96,79,22.8,0.68,Anand,22.5645,72.9289,2026-12-08 00:00:00,Under Review,False,True
+L0051,Demo Supplier 11,Recycler,Textile,Polyester textile offcuts,polyester,clean_dry,58.92,56,47.1,1.56,Vadodara,22.3072,73.1812,2026-10-12 00:00:00,Matched,False,True
+L0052,Demo Supplier 37,Small Manufacturer,Food processing,Spent grain (food processing),organic_biomass,fresh_segregated,58.19,59,43.9,0.21,Morbi,22.8173,70.837,2026-12-26 00:00:00,Matched,False,True
+L0053,Demo Supplier 40,Small Manufacturer,Plastics,PET plastic flakes,PET,sorted_clean,47.7,75,22.2,1.35,Mehsana,23.588,72.3693,2026-10-23 00:00:00,Under Review,False,True
+L0054,Demo Supplier 01,Large Manufacturer,Food processing,Fruit and vegetable processing residue,organic_biomass,fresh_segregated,49.49,59,38.4,0.16,Ahmedabad,23.0225,72.5714,2026-11-12 00:00:00,Available,False,True
+L0055,Demo Supplier 40,Small Manufacturer,Construction,Concrete rubble (sorted),mineral_aggregate,sorted_clean,61.23,96,10.5,0.12,Anand,22.5645,72.9289,2026-12-23 00:00:00,Matched,False,True
+L0056,Demo Supplier 47,Processor,Textile,Polyester textile offcuts,polyester,clean_dry,7.47,60,41.5,1.12,Mehsana,23.588,72.3693,2026-10-19 00:00:00,Under Review,False,True
+L0057,Demo Supplier 39,Large Manufacturer,Construction,Concrete rubble (sorted),mineral_aggregate,sorted_clean,71.92,91,10.1,0.08,Rajkot,22.3039,70.8022,2026-10-29 00:00:00,Available,False,True
+L0058,Demo Supplier 07,Processor,Plastics,PET plastic flakes,PET,sorted_clean,74.92,61,34.8,0.84,Gandhinagar,23.2156,72.6369,2026-10-16 00:00:00,Available,False,True
+L0059,Demo Supplier 24,Small Manufacturer,Manufacturing,Clean glass cullet,glass,sorted_clean,62.53,82,18.0,0.2,Gandhinagar,23.2156,72.6369,2026-12-04 00:00:00,Matched,False,True
+L0060,Demo Supplier 24,Large Manufacturer,Manufacturing,Clean glass cullet,glass,sorted_clean,68.12,60,39.2,0.06,Rajkot,22.3039,70.8022,2026-10-03 00:00:00,Under Review,False,True
+L0061,Demo Supplier 42,Medium Manufacturer,Food processing,Fruit and vegetable processing residue,organic_biomass,fresh_segregated,36.62,87,8.0,0.14,Ahmedabad,23.0225,72.5714,2026-11-09 00:00:00,Available,False,True
+L0062,Demo Supplier 03,Recycler,Manufacturing,Cardboard packaging scrap,paper_fiber,dry_clean,62.61,96,0.0,0.8,Anand,22.5645,72.9289,2026-12-01 00:00:00,Available,False,True
+L0063,Demo Supplier 50,Processor,Construction,Brick rubble (sorted),mineral_aggregate,sorted_clean,8.96,84,13.4,0.11,Mehsana,23.588,72.3693,2026-10-09 00:00:00,Under Review,False,True
+L0064,Demo Supplier 41,Small Manufacturer,Manufacturing,Aluminium offcuts,aluminium,sorted_clean,19.65,56,43.3,2.12,Mehsana,23.588,72.3693,2026-10-02 00:00:00,Matched,False,True
+L0065,Demo Supplier 01,Recycler,Manufacturing,Cardboard packaging scrap,paper_fiber,dry_clean,3.37,55,48.3,0.56,Morbi,22.8173,70.837,2026-12-12 00:00:00,Matched,False,True
+L0066,Demo Supplier 07,Processor,Plastics,HDPE plastic regrind,HDPE,sorted_clean,5.05,93,10.0,1.53,Vadodara,22.3072,73.1812,2026-12-16 00:00:00,Under Review,False,True
+L0067,Demo Supplier 11,Small Manufacturer,Manufacturing,Iron/steel offcuts,ferrous_metal,sorted_clean,3.69,75,30.4,0.69,Mehsana,23.588,72.3693,2026-12-16 00:00:00,Available,False,True
+L0068,Demo Supplier 27,Recycler,Plastics,PET plastic flakes,PET,sorted_clean,15.85,88,10.6,1.14,Mehsana,23.588,72.3693,2026-12-07 00:00:00,Under Review,False,True
+L0069,Demo Supplier 03,Large Manufacturer,Agriculture,Wheat straw,biomass,dry_clean,49.5,55,44.5,0.25,Ahmedabad,23.0225,72.5714,2026-10-16 00:00:00,Available,False,True
+L0070,Demo Supplier 13,Processor,Textile,Polyester textile offcuts,polyester,clean_dry,78.41,63,34.4,1.48,Bharuch,21.7051,72.9959,2026-12-18 00:00:00,Available,False,True
+L0071,Demo Supplier 16,Medium Manufacturer,Agriculture,Rice husk,biomass,dry_clean,75.71,79,15.1,0.27,Surat,21.1702,72.8311,2026-11-28 00:00:00,Available,False,True
+L0072,Demo Supplier 07,Small Manufacturer,Manufacturing,Clean glass cullet,glass,sorted_clean,40.91,61,40.4,0.12,Surat,21.1702,72.8311,2026-12-27 00:00:00,Available,False,True
+L0073,Demo Supplier 22,Recycler,Manufacturing,Clean glass cullet,glass,sorted_clean,24.72,82,19.3,0.14,Vadodara,22.3072,73.1812,2026-11-07 00:00:00,Available,False,True
+L0074,Demo Supplier 15,Large Manufacturer,Agriculture,Rice husk,biomass,dry_clean,47.27,64,31.5,0.09,Mehsana,23.588,72.3693,2026-11-12 00:00:00,Available,False,True
+L0075,Demo Supplier 29,Large Manufacturer,Plastics,PET plastic flakes,PET,sorted_clean,46.01,70,28.4,1.08,Vadodara,22.3072,73.1812,2026-11-28 00:00:00,Under Review,False,True
+L0076,Demo Supplier 27,Medium Manufacturer,Manufacturing,Cardboard packaging scrap,paper_fiber,dry_clean,44.16,90,5.4,0.58,Vadodara,22.3072,73.1812,2026-12-26 00:00:00,Available,False,True
+L0077,Demo Supplier 47,Medium Manufacturer,Manufacturing,Iron/steel offcuts,ferrous_metal,sorted_clean,70.97,60,39.8,0.61,Bharuch,21.7051,72.9959,2026-12-11 00:00:00,Available,False,True
+L0078,Demo Supplier 44,Recycler,Manufacturing,Cardboard packaging scrap,paper_fiber,dry_clean,39.78,92,10.4,0.24,Anand,22.5645,72.9289,2026-12-13 00:00:00,Available,False,True
+L0079,Demo Supplier 09,Recycler,Textile,Polyester textile offcuts,polyester,clean_dry,27.06,76,27.7,1.44,Vadodara,22.3072,73.1812,2026-10-02 00:00:00,Available,False,True
+L0080,Demo Supplier 34,Small Manufacturer,Manufacturing,Iron/steel offcuts,ferrous_metal,sorted_clean,30.09,93,10.6,0.67,Bharuch,21.7051,72.9959,2026-11-15 00:00:00,Available,False,True
+L0081,Demo Supplier 39,Small Manufacturer,Agriculture,Wheat straw,biomass,dry_clean,79.64,75,22.8,0.24,Gandhinagar,23.2156,72.6369,2026-12-03 00:00:00,Under Review,False,True
+L0082,Demo Supplier 24,Small Manufacturer,Manufacturing,Wood sawdust,wood_fiber,dry_clean,1.35,83,20.2,0.41,Gandhinagar,23.2156,72.6369,2026-12-04 00:00:00,Available,False,True
+L0083,Demo Supplier 28,Processor,Agriculture,Rice husk,biomass,dry_clean,79.14,98,0.0,0.35,Mehsana,23.588,72.3693,2026-10-13 00:00:00,Available,False,True
+L0084,Demo Supplier 24,Large Manufacturer,Agriculture,Rice husk,biomass,dry_clean,6.86,72,28.5,0.2,Mehsana,23.588,72.3693,2026-12-22 00:00:00,Available,False,True
+L0085,Demo Supplier 03,Small Manufacturer,Manufacturing,Cardboard packaging scrap,paper_fiber,dry_clean,72.61,97,0.0,0.38,Surat,21.1702,72.8311,2026-11-14 00:00:00,Matched,False,True
+L0086,Demo Supplier 43,Processor,Food processing,Fruit and vegetable processing residue,organic_biomass,fresh_segregated,7.19,77,16.3,0.22,Bharuch,21.7051,72.9959,2026-11-20 00:00:00,Under Review,False,True
+L0087,Demo Supplier 03,Recycler,Agriculture,Rice husk,biomass,dry_clean,61.15,82,14.0,0.23,Bharuch,21.7051,72.9959,2026-10-31 00:00:00,Matched,False,True
+L0088,Demo Supplier 22,Recycler,Manufacturing,Iron/steel offcuts,ferrous_metal,sorted_clean,61.61,76,32.1,0.6,Vadodara,22.3072,73.1812,2026-10-28 00:00:00,Available,False,True
+L0089,Demo Supplier 25,Small Manufacturer,Textile,Polyester textile offcuts,polyester,clean_dry,27.58,81,16.9,0.8,Mehsana,23.588,72.3693,2026-11-05 00:00:00,Matched,False,True
+L0090,Demo Supplier 13,Small Manufacturer,Manufacturing,Aluminium offcuts,aluminium,sorted_clean,14.61,83,20.6,1.13,Morbi,22.8173,70.837,2026-11-24 00:00:00,Matched,False,True
+L0091,Demo Supplier 30,Small Manufacturer,Construction,Concrete rubble (sorted),mineral_aggregate,sorted_clean,24.95,61,38.7,0.07,Anand,22.5645,72.9289,2026-12-03 00:00:00,Available,False,True
+L0092,Demo Supplier 33,Recycler,Food processing,Spent grain (food processing),organic_biomass,fresh_segregated,49.82,99,6.0,0.18,Bharuch,21.7051,72.9959,2026-11-16 00:00:00,Under Review,False,True
+L0093,Demo Supplier 44,Recycler,Manufacturing,Cardboard packaging scrap,paper_fiber,dry_clean,62.67,75,27.9,0.64,Gandhinagar,23.2156,72.6369,2026-11-09 00:00:00,Under Review,False,True
+L0094,Demo Supplier 42,Processor,Food processing,Fruit and vegetable processing residue,organic_biomass,fresh_segregated,77.6,84,11.1,0.11,Gandhinagar,23.2156,72.6369,2026-12-27 00:00:00,Under Review,False,True
+L0095,Demo Supplier 03,Recycler,Food processing,Spent grain (food processing),organic_biomass,fresh_segregated,10.35,68,30.3,0.13,Rajkot,22.3039,70.8022,2026-12-28 00:00:00,Matched,False,True
+L0096,Demo Supplier 12,Large Manufacturer,Agriculture,Rice husk,biomass,dry_clean,33.22,99,0.0,0.1,Vadodara,22.3072,73.1812,2026-11-18 00:00:00,Matched,False,True
+L0097,Demo Supplier 02,Medium Manufacturer,Plastics,HDPE plastic regrind,HDPE,sorted_clean,65.9,65,28.3,0.65,Gandhinagar,23.2156,72.6369,2026-10-10 00:00:00,Matched,False,True
+L0098,Demo Supplier 20,Recycler,Construction,Concrete rubble (sorted),mineral_aggregate,sorted_clean,62.01,87,9.8,0.14,Bharuch,21.7051,72.9959,2026-11-04 00:00:00,Available,False,True
+L0099,Demo Supplier 43,Medium Manufacturer,Manufacturing,Aluminium offcuts,aluminium,sorted_clean,49.94,65,35.1,1.67,Vadodara,22.3072,73.1812,2026-11-30 00:00:00,Available,False,True
+L0100,Demo Supplier 21,Recycler,Textile,Textile cotton scraps,cotton,clean_dry,71.7,73,32.5,1.04,Bharuch,21.7051,72.9959,2026-11-17 00:00:00,Available,False,True
+L0101,Demo Supplier 30,Large Manufacturer,Construction,Brick rubble (sorted),mineral_aggregate,sorted_clean,24.27,86,12.8,0.06,Mehsana,23.588,72.3693,2026-12-19 00:00:00,Matched,False,True
+L0102,Demo Supplier 27,Recycler,Plastics,PET plastic flakes,PET,sorted_clean,27.68,58,36.0,1.23,Bharuch,21.7051,72.9959,2026-11-27 00:00:00,Available,False,True
+L0103,Demo Supplier 29,Large Manufacturer,Construction,Brick rubble (sorted),mineral_aggregate,sorted_clean,11.38,60,33.1,0.07,Rajkot,22.3039,70.8022,2026-12-22 00:00:00,Available,False,True
+L0104,Demo Supplier 28,Small Manufacturer,Agriculture,Wheat straw,biomass,dry_clean,29.55,61,34.6,0.12,Rajkot,22.3039,70.8022,2026-10-28 00:00:00,Available,False,True
+L0105,Demo Supplier 22,Large Manufacturer,Manufacturing,Clean glass cullet,glass,sorted_clean,27.79,75,18.2,0.16,Morbi,22.8173,70.837,2026-11-18 00:00:00,Matched,False,True
+L0106,Demo Supplier 16,Large Manufacturer,Manufacturing,Cardboard packaging scrap,paper_fiber,dry_clean,19.19,95,0.0,0.75,Rajkot,22.3039,70.8022,2026-12-28 00:00:00,Under Review,False,True
+L0107,Demo Supplier 15,Small Manufacturer,Plastics,HDPE plastic regrind,HDPE,sorted_clean,52.45,56,38.7,0.92,Morbi,22.8173,70.837,2026-10-14 00:00:00,Available,False,True
+L0108,Demo Supplier 32,Large Manufacturer,Manufacturing,Aluminium offcuts,aluminium,sorted_clean,45.14,67,34.6,2.13,Ahmedabad,23.0225,72.5714,2026-12-17 00:00:00,Available,False,True
+L0109,Demo Supplier 41,Large Manufacturer,Manufacturing,Clean glass cullet,glass,sorted_clean,54.13,66,32.0,0.17,Gandhinagar,23.2156,72.6369,2026-10-17 00:00:00,Available,False,True
+L0110,Demo Supplier 47,Large Manufacturer,Food processing,Fruit and vegetable processing residue,organic_biomass,fresh_segregated,52.41,59,39.3,0.15,Vadodara,22.3072,73.1812,2026-10-13 00:00:00,Available,False,True
+L0111,Demo Supplier 03,Recycler,Manufacturing,Clean glass cullet,glass,sorted_clean,8.69,68,22.7,0.05,Gandhinagar,23.2156,72.6369,2026-11-10 00:00:00,Available,False,True
+L0112,Demo Supplier 39,Small Manufacturer,Agriculture,Wheat straw,biomass,dry_clean,4.55,69,26.9,0.17,Mehsana,23.588,72.3693,2026-12-20 00:00:00,Under Review,False,True
+L0113,Demo Supplier 20,Medium Manufacturer,Agriculture,Rice husk,biomass,dry_clean,24.51,77,25.6,0.08,Surat,21.1702,72.8311,2026-10-11 00:00:00,Available,False,True
+L0114,Demo Supplier 21,Large Manufacturer,Manufacturing,Iron/steel offcuts,ferrous_metal,sorted_clean,40.9,55,40.1,0.48,Surat,21.1702,72.8311,2026-11-19 00:00:00,Under Review,False,True
+L0115,Demo Supplier 17,Recycler,Agriculture,Wheat straw,biomass,dry_clean,21.2,65,25.9,0.19,Mehsana,23.588,72.3693,2026-12-01 00:00:00,Available,False,True
+L0116,Demo Supplier 44,Processor,Plastics,HDPE plastic regrind,HDPE,sorted_clean,74.47,69,26.4,1.06,Bharuch,21.7051,72.9959,2026-10-18 00:00:00,Available,False,True
+L0117,Demo Supplier 46,Recycler,Food processing,Spent grain (food processing),organic_biomass,fresh_segregated,11.49,55,45.6,0.07,Ahmedabad,23.0225,72.5714,2026-10-03 00:00:00,Available,False,True
+L0118,Demo Supplier 35,Recycler,Textile,Polyester textile offcuts,polyester,clean_dry,19.71,82,22.8,1.29,Bharuch,21.7051,72.9959,2026-11-14 00:00:00,Available,False,True
+L0119,Demo Supplier 09,Medium Manufacturer,Manufacturing,Cardboard packaging scrap,paper_fiber,dry_clean,49.72,75,23.5,0.71,Mehsana,23.588,72.3693,2026-10-23 00:00:00,Available,False,True
+L0120,Demo Supplier 37,Recycler,Manufacturing,Aluminium offcuts,aluminium,sorted_clean,48.47,75,32.1,1.41,Morbi,22.8173,70.837,2026-10-14 00:00:00,Available,False,True
+L0121,Demo Supplier 11,Recycler,Food processing,Fruit and vegetable processing residue,organic_biomass,fresh_segregated,48.26,68,34.5,0.11,Mehsana,23.588,72.3693,2026-10-08 00:00:00,Matched,False,True
+L0122,Demo Supplier 43,Processor,Textile,Textile cotton scraps,cotton,clean_dry,2.01,70,27.8,1.53,Bharuch,21.7051,72.9959,2026-10-28 00:00:00,Under Review,False,True
+L0123,Demo Supplier 30,Processor,Manufacturing,Iron/steel offcuts,ferrous_metal,sorted_clean,71.26,61,39.0,0.35,Vadodara,22.3072,73.1812,2026-12-02 00:00:00,Available,False,True
+L0124,Demo Supplier 28,Recycler,Plastics,PET plastic flakes,PET,sorted_clean,79.35,77,22.8,0.51,Mehsana,23.588,72.3693,2026-11-22 00:00:00,Available,False,True
+L0125,Demo Supplier 45,Small Manufacturer,Manufacturing,Wood sawdust,wood_fiber,dry_clean,71.84,59,40.2,0.46,Surat,21.1702,72.8311,2026-10-25 00:00:00,Under Review,False,True
+L0126,Demo Supplier 10,Small Manufacturer,Textile,Textile cotton scraps,cotton,clean_dry,23.93,81,20.6,1.64,Anand,22.5645,72.9289,2026-10-05 00:00:00,Available,False,True
+L0127,Demo Supplier 13,Large Manufacturer,Plastics,PET plastic flakes,PET,sorted_clean,69.97,92,4.6,1.0,Vadodara,22.3072,73.1812,2026-11-05 00:00:00,Under Review,False,True
+L0128,Demo Supplier 08,Large Manufacturer,Construction,Concrete rubble (sorted),mineral_aggregate,sorted_clean,45.57,87,12.5,0.18,Anand,22.5645,72.9289,2026-12-23 00:00:00,Available,False,True
+L0129,Demo Supplier 27,Processor,Manufacturing,Clean glass cullet,glass,sorted_clean,63.78,71,27.0,0.06,Ahmedabad,23.0225,72.5714,2026-12-20 00:00:00,Under Review,False,True
+L0130,Demo Supplier 35,Small Manufacturer,Manufacturing,Wood sawdust,wood_fiber,dry_clean,12.38,85,10.4,0.24,Surat,21.1702,72.8311,2026-12-22 00:00:00,Matched,False,True
+L0131,Demo Supplier 24,Processor,Manufacturing,Clean glass cullet,glass,sorted_clean,17.37,70,22.6,0.18,Gandhinagar,23.2156,72.6369,2026-11-04 00:00:00,Available,False,True
+L0132,Demo Supplier 23,Small Manufacturer,Agriculture,Wheat straw,biomass,dry_clean,58.63,88,13.6,0.21,Ahmedabad,23.0225,72.5714,2026-12-10 00:00:00,Matched,False,True
+L0133,Demo Supplier 05,Large Manufacturer,Construction,Concrete rubble (sorted),mineral_aggregate,sorted_clean,63.95,77,28.7,0.14,Mehsana,23.588,72.3693,2026-10-03 00:00:00,Available,False,True
+L0134,Demo Supplier 32,Medium Manufacturer,Manufacturing,Clean glass cullet,glass,sorted_clean,57.69,71,28.6,0.1,Gandhinagar,23.2156,72.6369,2026-11-01 00:00:00,Under Review,False,True
+L0135,Demo Supplier 31,Small Manufacturer,Food processing,Fruit and vegetable processing residue,organic_biomass,fresh_segregated,33.03,55,43.6,0.14,Morbi,22.8173,70.837,2026-10-18 00:00:00,Available,False,True
+L0136,Demo Supplier 03,Medium Manufacturer,Manufacturing,Wood sawdust,wood_fiber,dry_clean,10.92,72,29.3,0.49,Rajkot,22.3039,70.8022,2026-10-03 00:00:00,Matched,False,True
+L0137,Demo Supplier 38,Large Manufacturer,Construction,Concrete rubble (sorted),mineral_aggregate,sorted_clean,8.36,76,24.3,0.07,Vadodara,22.3072,73.1812,2026-10-19 00:00:00,Matched,False,True
+L0138,Demo Supplier 01,Large Manufacturer,Plastics,PET plastic flakes,PET,sorted_clean,37.74,78,21.8,0.54,Anand,22.5645,72.9289,2026-10-09 00:00:00,Matched,False,True
+L0139,Demo Supplier 06,Medium Manufacturer,Plastics,HDPE plastic regrind,HDPE,sorted_clean,39.89,94,6.0,0.89,Morbi,22.8173,70.837,2026-12-08 00:00:00,Available,False,True
+L0140,Demo Supplier 30,Small Manufacturer,Manufacturing,Aluminium offcuts,aluminium,sorted_clean,78.77,95,0.6,2.42,Bharuch,21.7051,72.9959,2026-11-06 00:00:00,Available,False,True
+L0141,Demo Supplier 05,Large Manufacturer,Manufacturing,Clean glass cullet,glass,sorted_clean,44.46,74,19.2,0.14,Vadodara,22.3072,73.1812,2026-11-18 00:00:00,Available,False,True
+L0142,Demo Supplier 27,Processor,Plastics,PET plastic flakes,PET,sorted_clean,13.24,66,38.2,1.03,Ahmedabad,23.0225,72.5714,2026-12-06 00:00:00,Available,False,True
+L0143,Demo Supplier 39,Processor,Manufacturing,Iron/steel offcuts,ferrous_metal,sorted_clean,32.69,59,40.4,0.39,Rajkot,22.3039,70.8022,2026-12-24 00:00:00,Available,False,True
+L0144,Demo Supplier 31,Small Manufacturer,Textile,Polyester textile offcuts,polyester,clean_dry,8.48,95,5.3,1.55,Vadodara,22.3072,73.1812,2026-11-28 00:00:00,Available,False,True
+L0145,Demo Supplier 36,Processor,Textile,Textile cotton scraps,cotton,clean_dry,20.0,94,10.6,1.67,Anand,22.5645,72.9289,2026-10-31 00:00:00,Available,False,True
+L0146,Demo Supplier 04,Recycler,Agriculture,Wheat straw,biomass,dry_clean,19.96,66,32.7,0.31,Bharuch,21.7051,72.9959,2026-10-01 00:00:00,Under Review,False,True
+L0147,Demo Supplier 27,Medium Manufacturer,Manufacturing,Cardboard packaging scrap,paper_fiber,dry_clean,39.5,75,26.7,0.46,Anand,22.5645,72.9289,2026-10-12 00:00:00,Available,False,True
+L0148,Demo Supplier 19,Large Manufacturer,Textile,Polyester textile offcuts,polyester,clean_dry,38.82,97,9.6,0.86,Surat,21.1702,72.8311,2026-12-26 00:00:00,Available,False,True
+L0149,Demo Supplier 06,Recycler,Plastics,PET plastic flakes,PET,sorted_clean,2.89,72,28.8,0.79,Vadodara,22.3072,73.1812,2026-11-24 00:00:00,Available,False,True
+L0150,Demo Supplier 08,Recycler,Agriculture,Rice husk,biomass,dry_clean,42.78,73,28.3,0.35,Gandhinagar,23.2156,72.6369,2026-12-13 00:00:00,Under Review,False,True
+L0151,Demo Supplier 47,Recycler,Manufacturing,Wood sawdust,wood_fiber,dry_clean,12.65,92,3.4,0.18,Anand,22.5645,72.9289,2026-10-31 00:00:00,Available,False,True
+L0152,Demo Supplier 11,Recycler,Construction,Brick rubble (sorted),mineral_aggregate,sorted_clean,60.19,83,18.6,0.05,Morbi,22.8173,70.837,2026-11-17 00:00:00,Available,False,True
+L0153,Demo Supplier 50,Medium Manufacturer,Manufacturing,Cardboard packaging scrap,paper_fiber,dry_clean,0.68,79,20.0,0.24,Morbi,22.8173,70.837,2026-11-11 00:00:00,Under Review,False,True
+L0154,Demo Supplier 33,Medium Manufacturer,Textile,Polyester textile offcuts,polyester,clean_dry,50.77,61,39.9,1.62,Rajkot,22.3039,70.8022,2026-11-07 00:00:00,Under Review,False,True
+L0155,Demo Supplier 30,Large Manufacturer,Construction,Concrete rubble (sorted),mineral_aggregate,sorted_clean,52.97,84,17.8,0.17,Anand,22.5645,72.9289,2026-10-31 00:00:00,Available,False,True
+L0156,Demo Supplier 15,Recycler,Plastics,PET plastic flakes,PET,sorted_clean,67.76,85,17.5,0.9,Ahmedabad,23.0225,72.5714,2026-12-07 00:00:00,Under Review,False,True
+L0157,Demo Supplier 33,Processor,Manufacturing,Cardboard packaging scrap,paper_fiber,dry_clean,42.75,88,15.5,0.77,Gandhinagar,23.2156,72.6369,2026-11-02 00:00:00,Under Review,False,True
+L0158,Demo Supplier 37,Recycler,Construction,Brick rubble (sorted),mineral_aggregate,sorted_clean,45.16,73,30.1,0.09,Rajkot,22.3039,70.8022,2026-10-30 00:00:00,Available,False,True
+L0159,Demo Supplier 21,Recycler,Plastics,PET plastic flakes,PET,sorted_clean,27.72,86,16.5,0.61,Morbi,22.8173,70.837,2026-10-09 00:00:00,Available,False,True
+L0160,Demo Supplier 41,Small Manufacturer,Construction,Concrete rubble (sorted),mineral_aggregate,sorted_clean,53.2,84,17.5,0.08,Surat,21.1702,72.8311,2026-10-15 00:00:00,Under Review,False,True
+L0161,Demo Supplier 34,Processor,Manufacturing,Clean glass cullet,glass,sorted_clean,20.11,96,4.2,0.08,Mehsana,23.588,72.3693,2026-10-13 00:00:00,Available,False,True
+L0162,Demo Supplier 28,Processor,Manufacturing,Cardboard packaging scrap,paper_fiber,dry_clean,72.87,85,16.6,0.53,Vadodara,22.3072,73.1812,2026-12-09 00:00:00,Matched,False,True
+L0163,Demo Supplier 32,Large Manufacturer,Food processing,Fruit and vegetable processing residue,organic_biomass,fresh_segregated,20.78,68,36.2,0.25,Morbi,22.8173,70.837,2026-11-05 00:00:00,Available,False,True
+L0164,Demo Supplier 19,Large Manufacturer,Construction,Concrete rubble (sorted),mineral_aggregate,sorted_clean,32.3,56,44.0,0.12,Anand,22.5645,72.9289,2026-10-16 00:00:00,Matched,False,True
+L0165,Demo Supplier 28,Recycler,Manufacturing,Iron/steel offcuts,ferrous_metal,sorted_clean,26.12,93,9.8,0.69,Mehsana,23.588,72.3693,2026-10-31 00:00:00,Matched,False,True
+L0166,Demo Supplier 02,Processor,Plastics,HDPE plastic regrind,HDPE,sorted_clean,73.95,96,0.2,1.58,Rajkot,22.3039,70.8022,2026-12-29 00:00:00,Under Review,False,True
+L0167,Demo Supplier 23,Processor,Plastics,HDPE plastic regrind,HDPE,sorted_clean,38.71,83,22.9,1.24,Bharuch,21.7051,72.9959,2026-10-27 00:00:00,Available,False,True
+L0168,Demo Supplier 15,Recycler,Plastics,HDPE plastic regrind,HDPE,sorted_clean,33.09,81,24.8,1.42,Anand,22.5645,72.9289,2026-11-21 00:00:00,Available,False,True
+L0169,Demo Supplier 40,Processor,Manufacturing,Wood sawdust,wood_fiber,dry_clean,27.22,75,30.8,0.22,Ahmedabad,23.0225,72.5714,2026-12-09 00:00:00,Under Review,False,True
+L0170,Demo Supplier 02,Large Manufacturer,Textile,Polyester textile offcuts,polyester,clean_dry,79.89,72,24.3,0.85,Surat,21.1702,72.8311,2026-11-06 00:00:00,Under Review,False,True
+L0171,Demo Supplier 04,Medium Manufacturer,Manufacturing,Aluminium offcuts,aluminium,sorted_clean,78.48,83,16.4,2.14,Gandhinagar,23.2156,72.6369,2026-10-25 00:00:00,Available,False,True
+L0172,Demo Supplier 08,Large Manufacturer,Manufacturing,Aluminium offcuts,aluminium,sorted_clean,9.39,84,9.8,1.1,Vadodara,22.3072,73.1812,2026-11-15 00:00:00,Available,False,True
+L0173,Demo Supplier 33,Small Manufacturer,Plastics,HDPE plastic regrind,HDPE,sorted_clean,55.05,90,7.4,1.6,Anand,22.5645,72.9289,2026-11-16 00:00:00,Available,False,True
+L0174,Demo Supplier 09,Large Manufacturer,Textile,Polyester textile offcuts,polyester,clean_dry,78.14,87,18.0,1.16,Bharuch,21.7051,72.9959,2026-10-19 00:00:00,Available,False,True
+L0175,Demo Supplier 40,Recycler,Manufacturing,Wood sawdust,wood_fiber,dry_clean,28.59,69,25.6,0.56,Bharuch,21.7051,72.9959,2026-11-07 00:00:00,Available,False,True
+L0176,Demo Supplier 14,Small Manufacturer,Manufacturing,Cardboard packaging scrap,paper_fiber,dry_clean,64.21,88,7.4,0.74,Vadodara,22.3072,73.1812,2026-11-21 00:00:00,Matched,False,True
+L0177,Demo Supplier 27,Medium Manufacturer,Manufacturing,Aluminium offcuts,aluminium,sorted_clean,12.71,68,28.0,0.89,Ahmedabad,23.0225,72.5714,2026-10-01 00:00:00,Available,False,True
+L0178,Demo Supplier 18,Small Manufacturer,Agriculture,Rice husk,biomass,dry_clean,3.27,89,9.9,0.3,Mehsana,23.588,72.3693,2026-10-03 00:00:00,Available,False,True
+L0179,Demo Supplier 27,Large Manufacturer,Textile,Textile cotton scraps,cotton,clean_dry,65.94,79,18.3,0.89,Mehsana,23.588,72.3693,2026-11-05 00:00:00,Available,False,True
+L0180,Demo Supplier 36,Large Manufacturer,Construction,Brick rubble (sorted),mineral_aggregate,sorted_clean,60.31,66,33.6,0.12,Morbi,22.8173,70.837,2026-10-28 00:00:00,Available,False,True

@@ -1,0 +1,11 @@
+{
+  "project": "Waste2Worth AI",
+  "data_notice": "All records are synthetic demo data, not real market evidence.",
+  "files": {
+    "demo_waste_listings.csv": 180,
+    "demo_buyer_requirements.csv": 140,
+    "synthetic_demo_transactions.csv": 360,
+    "material_compatibility_reference.csv": 12,
+    "ml_feature_data_requirements.csv": 5
+  }
+}

@@ -1,0 +1,6 @@
+feature,required_data,candidate_inputs,recommended_initial_method,limitation
+matching,Listings + buyer needs,"material_category, quality, contamination, quantity, price, distance, condition",Rule-based baseline; optionally train ranking/classification model,Do not present score as safety certification
+quantity_prediction,Historical periodic waste generation data (not included as actual records),"sector, material_category, month, production_volume, prior_quantity",Regression/time-series only after suitable time series is collected,Starter files do not contain real longitudinal history
+demand_prediction,"Buyer searches, requests, matches and transactions over time","material_category, buyer_sector, month, requested_quantity",Regression or time-series only when enough data exists,Do not infer real market demand from synthetic demo data
+price_prediction,Verified completed transaction prices,"material_category, quality, contamination, quantity, location, date",Baseline regression after real prices are collected,Synthetic prices are for UI/testing only
+impact_estimation,Verified reused quantity + approved factors,"quantity_tonnes, reuse_yield, material_category, factor_source","Transparent calculation, not necessarily ML",No emissions reduction claims without defensible factors and baseline

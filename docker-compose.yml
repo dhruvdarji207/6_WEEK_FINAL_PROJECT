@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - SECRET_KEY=waste2worth-docker-secret-key-2026
+      - DATABASE_URL=sqlite:///./waste2worth.db
+    volumes:
+      - ./datasets:/app/datasets
+      - ./ml/artifacts:/app/ml/artifacts
+      - backend_data:/app/backend
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "5173:5173"
+    depends_on:
+      - backend
+    restart: unless-stopped
+
+volumes:
+  backend_data:
